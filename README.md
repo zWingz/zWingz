@@ -1,4 +1,4 @@
-### Hi there 👋
+![image](https://user-images.githubusercontent.com/13031838/96089458-73f4ca00-0ef9-11eb-90d9-11a71fe3ca9e.png)
 
 <!--
 **zWingz/zWingz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
